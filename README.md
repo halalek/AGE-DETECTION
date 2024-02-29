@@ -41,3 +41,7 @@ RGB values of the image
 ![image](https://github.com/halalek/AGE-DETECTION/assets/112726630/368ba20a-e5de-4992-910f-d6cd437c5b83)
 
 
+![image](https://github.com/halalek/AGE-DETECTION/assets/112726630/3309c825-363e-46eb-8315-778eb34ca803)
+
+
+
