@@ -33,3 +33,11 @@ The size of this matrix depends on the image resolution
 For example, if the size of the images is 3×6×6, these numbers express:
 Next 6, 6 represents the length and width of the image and 3 indicates
 RGB values of the image
+
+
+
+
+
+![image](https://github.com/halalek/AGE-DETECTION/assets/112726630/368ba20a-e5de-4992-910f-d6cd437c5b83)
+
+
