@@ -8,7 +8,7 @@ Which is one of the (SET_DATA) methods that are calibrated
 And the accuracy of its performance
 
 
-# Dataset : Indian Movie Face database (IMFDB):
+## Dataset : Indian Movie Face database (IMFDB):
 It is a large unbound base of 34512
    Portrait of 100) consisting of 67 male/33 female actors
 There are at least 200 photos for each actor)
@@ -21,7 +21,7 @@ They have worked throughout the field so there is a variety of differences
 The personal profile is the same and the database has been shortened
 To search images.
 
-# CNN:
+## CNN:
 The face detection task requires training neural networks
 To be able to obtain the most important features in faces to be able to
   CNN is a differentiator, a convolutional neural network
