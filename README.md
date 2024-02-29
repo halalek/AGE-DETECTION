@@ -12,7 +12,7 @@ They have worked in the field for a long time and therefore there is a variety o
 The age of the person is the same and the database has been reduced
 By removing the duplicate images.
 
-### Dataset:https://www.kaggle.com/datasets/ashishpatel26/indian-movie-face-database-imfdb
+### Dataset:  https://www.kaggle.com/datasets/ashishpatel26/indian-movie-face-database-imfdb
 ## CNN:
 The face detection task requires training neural networks
 To be able to obtain the most important features in faces to be able to
